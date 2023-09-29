@@ -1,0 +1,1 @@
+To get the Aipicker to generate a cool gradient on your shirt or a cool logo, create your own api key from openai and input it in the dalle-routes.js file which is in the server folder. My free trial has already finished so i have removed my key from the program.
